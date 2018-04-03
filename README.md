@@ -33,6 +33,11 @@ Box Clusters <br>
 
 ## Teensy (qwerty) keyboard HID
 
-# Poking at this project during Dorkbot
+# Poking at this project during Dorkbot on 4/2/18
 ### Quick and dirty - add simon says code to leonardos, see if a multiple modes possible, triggered by command from teensy via rs485.
 
+# Project Objectives
+This is a toorcamp art grant project that is hoping to do a number of things.
+
+1. A light and sound display for the sides of the EDU (Retired Bomb Squad Truck)
+2. 
