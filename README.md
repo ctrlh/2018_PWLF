@@ -1,4 +1,4 @@
-# 2018_PWLF
+# 2018_PWLF (TOORCAMP ITERATION)
 
 RS485 between box Clusters. Teensy reads RS485 from box clusters and ouputs midi to Ableton Live.
 
@@ -19,3 +19,20 @@ Box Clusters <br>
 8 boxes per Cluster <br>
 - two WS2812 modules per box <br>
 - one piezo per box <br>
+
+
+#TOORCAMP 2018 TODOs
+
+##RS485 two way communication between leonardos and Teensy
+
+###simon says
+
+
+##Teensy midi to raspberry pi
+
+
+##Teensy (qwerty) keyboard HID
+
+#Poking at this project during Dorkbot
+###Quick and dirty - add simon says code to leonardos, see if a multiple modes possible, triggered by command from teensy via rs485.
+
