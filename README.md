@@ -21,18 +21,18 @@ Box Clusters <br>
 - one piezo per box <br>
 
 
-#TOORCAMP 2018 TODOs
+# TOORCAMP 2018 TODOs
 
-##RS485 two way communication between leonardos and Teensy
+## RS485 two way communication between leonardos and Teensy
 
-###simon says
-
-
-##Teensy midi to raspberry pi
+### simon says
 
 
-##Teensy (qwerty) keyboard HID
+## Teensy midi to raspberry pi
 
-#Poking at this project during Dorkbot
-###Quick and dirty - add simon says code to leonardos, see if a multiple modes possible, triggered by command from teensy via rs485.
+
+## Teensy (qwerty) keyboard HID
+
+# Poking at this project during Dorkbot
+### Quick and dirty - add simon says code to leonardos, see if a multiple modes possible, triggered by command from teensy via rs485.
 
